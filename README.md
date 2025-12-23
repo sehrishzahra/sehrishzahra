@@ -1,4 +1,6 @@
-<img src="https://github.com/sehrishzahra/sehrishzahra/assets/114233549/e9c8e9ce-958a-4fa9-924f-715b91ad77d7" alt="photo" width="900" height="400">
+<!-- <img src="https://github.com/sehrishzahra/sehrishzahra/assets/114233549/e9c8e9ce-958a-4fa9-924f-715b91ad77d7" alt="photo" width="900" height="400"> -->
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="photo" width="900" height="400">
+
 <h2 align="center">Hi 👋! My name is Sehrish and I'm a Software Engineer</h2>
 
 ###
