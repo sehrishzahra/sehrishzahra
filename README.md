@@ -1,5 +1,4 @@
-<!-- <img src="https://github.com/sehrishzahra/sehrishzahra/assets/114233549/e9c8e9ce-958a-4fa9-924f-715b91ad77d7" alt="photo" width="900" height="400"> -->
-https://pixel-profile.vercel.app/api/github-stats?username=<sehrishzahra>&theme=crt
+<img src="https://github.com/sehrishzahra/sehrishzahra/assets/114233549/e9c8e9ce-958a-4fa9-924f-715b91ad77d7" alt="photo" width="900" height="400">
 <h2 align="center">Hi 👋! My name is Sehrish and I'm a Software Engineer</h2>
 
 ###
