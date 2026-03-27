@@ -1,5 +1,5 @@
 <div align="center">
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6cnE5bm94Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7iM8FMEU24/giphy.gif" width="150" />
 </div>
 
 <h2 align="center">✨ Full Stack Software Engineer ✨</h2>
