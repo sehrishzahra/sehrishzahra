@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=FFB6C1&height=200&section=header&text=Hi%20there,%20I'm%20Sehrish!%20🌸&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6cnE5bm94Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7iM8FMEU24/giphy.gif" width="150" />
 </div>
 
